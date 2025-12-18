@@ -86,3 +86,9 @@ Test accuracy = 0.5
 ```
 
 Note again that this small toy dataset is for a simple demonstration purpose only and is not intended for meaningful performance evaluation. The `diabetes.ipynb` notebook contains the full implementation, including data preprocessing, hyperparameter tuning, and feature importance discussion omitted from this section. 
+
+## URLs of resources used
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database/data  
+https://www.kaggle.com/code/leedonghyeok/multiple-imputation-mice  
+https://www.kaggle.com/code/shrutimechlearn/step-by-step-diabetes-classification#Hyper-Parameter-optimization  
+https://www.kaggle.com/code/harshwardhanfartale/explainable-ai-interpreting-ml-models
