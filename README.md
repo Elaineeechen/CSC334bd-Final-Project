@@ -4,7 +4,7 @@
 I'm trying to predict whether a patient has diabetes based on diagnostic measurements from the [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database/data). This Kaggle dataset, originally from the National Institute of Diabetes and Digestive and Kidney Diseases, consists of female patients at least 21 years old of Pima Indian heritage.
 
 ## How my solution is structured
-My solution was organized into two main steps. 
+My solution was organized into two main steps.  
 The first step, data exploration and preprocessing, focused on understanding the dataset and preparing it for modeling. This included looking at the summary statistics of features, identifying missing values, and applying data imputation to estimate those missing values. I also checked for class imbalance, which was found to not be a major concern for this dataset.  
 The second step involved developing machine learning models to predict diabetes. Initial models were first trained using default hyperparameters. I then tuned hyperparameters, combined with cross-validation, to improve accuracy. For the black-box model, I also attempted to improve its explainability by generating feature importances.
 
