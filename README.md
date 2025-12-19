@@ -89,6 +89,10 @@ Note again that this small toy dataset is for a simple demonstration purpose onl
 
 ## URLs of resources used
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database/data  
+https://scikit-learn.org/stable/modules/generated/sklearn.impute.IterativeImputer.html  
 https://www.kaggle.com/code/leedonghyeok/multiple-imputation-mice  
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html  
 https://www.kaggle.com/code/shrutimechlearn/step-by-step-diabetes-classification#Hyper-Parameter-optimization  
+https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html  
+https://scikit-learn.org/stable/modules/permutation_importance.html  
 https://www.kaggle.com/code/harshwardhanfartale/explainable-ai-interpreting-ml-models
